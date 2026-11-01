@@ -32,7 +32,7 @@ An Arabic–English interface with saved language preferences, right-to-left lay
 | Project | Approach | Technologies |
 | :--- | :--- | :--- |
 | **SAYYAR — University bus fleet management** | Co-built with a four-person graduation team. Groups student pickups and optimizes routes using HDBSCAN for uneven location data. | Django · Flutter · PostgreSQL · Firebase · Mapbox |
-| **Agriculture & Environmental Monitoring** | Computer vision work using satellite imagery and deep learning to track Amazon deforestation and detect weeds for precision agriculture. | Python · Computer vision · Deep learning |
+| **[Agriculture & Environmental Monitoring](https://github.com/Shahadkasib/agriculture-environmental-monitoring)** | Individual course project: analyzed deforestation trends from CSV data and prototyped CNN-based weed classification. Includes original notebook, charts, and an annotation audit. | Python · pandas · Matplotlib · OpenCV · Keras |
 
 ## Technical toolkit
 
