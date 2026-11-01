@@ -37,4 +37,4 @@ No accessibility score, search ranking improvement, conversion rate, or performa
 
 This is a supporting frontend project that demonstrates localization and responsive implementation. SHIP Hub is the stronger flagship for full-stack engineering and operational workflow design.
 
-[Back to my profile](../../README.md)
+[Back to my profile](https://github.com/Shahadkasib)
