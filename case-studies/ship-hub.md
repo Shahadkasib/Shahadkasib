@@ -77,4 +77,4 @@ Usage and time-savings metrics are not reported here.
 
 The production repository remains private because it supports school operations. This case study describes the design without publishing student records, staff accounts, attachments, credentials, or internal configuration.
 
-[Back to my profile](../../README.md)
+[Back to my profile](https://github.com/Shahadkasib)
