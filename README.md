@@ -1,32 +1,56 @@
 # Hi, I’m Shahad Fuad Kasib
 
-**Chief Technology Officer at Imperial International School**  
-Computer Science graduate · Artificial Intelligence track · Dar Al-Hekma University
+**Software development · Applied AI · Technology leadership**
 
-I build web platforms and explore practical applications of AI. My background combines software development, technology leadership, teaching, and business operations.
+I’m the **CTO at Imperial International School** and a **Computer Science graduate from Dar Al-Hekma University, specializing in Artificial Intelligence**. I build web applications and translate operational requirements into practical software.
 
-## What I’m working on
+My work spans full-stack development, bilingual interfaces, permission-sensitive workflows, and academic AI projects.
 
-At Imperial International School, I lead technology strategy and digital infrastructure, including the school’s bilingual Arabic–English website and portal roadmap.
+## Featured work
 
-I designed, built, and launched **SHIP Hub**, a staff portal for the school’s house points program. It brings together award submissions, administrative approvals, live house standings, reporting, and an audit trail for corrections.
+### SHIP Hub — School house-points platform
 
-## Selected projects
+Designed, built, and launched a bilingual staff platform for award submissions, two-stage approvals, house standings, reporting, and traceable corrections.
 
-### SAYYAR — University Bus Fleet Management
-Co-built with a four-person graduation project team using Django, Flutter, PostgreSQL, Firebase, and Mapbox. The platform groups student pickups by location and optimizes bus routes, using HDBSCAN to handle uneven location data.
+**Next.js · React · TypeScript · PostgreSQL · Supabase · Vercel**
+
+[Read the engineering case study](case-studies/ship-hub.md) · Production source remains private.
+
+### Bilingual school landing page
+
+Built an Arabic–English landing page with language preferences, right-to-left layouts, responsive styling, and clear contact paths.
+
+**React · TypeScript · Localization · Responsive design**
+
+[Read the frontend case study](case-studies/imperial-website.md)
+
+### SAYYAR — University bus fleet management
+
+Co-built a graduation project with a four-person team using Django, Flutter, PostgreSQL, Firebase, and Mapbox. The project groups student pickups and optimizes routes, using HDBSCAN to handle uneven location data.
+
+**Django · Flutter · PostgreSQL · Firebase · Mapbox · Clustering**
 
 ### Agriculture & Environmental Monitoring
-Built a computer vision system using satellite imagery and deep learning to track Amazon deforestation and detect weeds for precision agriculture.
 
-## Technical toolkit
+Built a computer vision project using satellite imagery and deep learning to track Amazon deforestation and detect weeds for precision agriculture.
 
-- **Languages:** Python, SQL, C++, C#, HTML, CSS
-- **Web & mobile:** Django, Flutter, PostgreSQL, Firebase, Mapbox
-- **AI:** Computer vision, deep learning, clustering, linear regression
+**Python · Computer vision · Deep learning**
 
-## Beyond development
+## Technical focus
 
-I also co-own and manage Diamond Beauty, bringing hands-on experience in operations, finance, and marketing to my technical work.
+| Area | Technologies and experience |
+|---|---|
+| Web applications | Next.js, React, TypeScript, Django, HTML, CSS |
+| Data and backend | Python, SQL, PostgreSQL, Firebase, Supabase |
+| Mobile | Flutter |
+| Applied AI | Computer vision, deep learning, K-Means, HDBSCAN, linear regression |
+| Delivery and leadership | Requirements, testing, bilingual products, technology strategy, operations |
 
-**Languages:** Arabic · English · Spanish
+## Background
+
+- **CTO, Imperial International School** — technology strategy, digital infrastructure, and application delivery.
+- **BSc Computer Science, AI track** — Dar Al-Hekma University, June 2025.
+- **Co-owner & Managing Partner, Diamond Beauty** — business operations, finance, and marketing.
+- **Arabic, English, and Spanish.**
+
+I’m interested in opportunities across software engineering, applied AI, and technology delivery where I can combine hands-on development with practical product ownership.
